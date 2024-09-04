@@ -27,3 +27,17 @@ The plugin uses a simple configuration file (`config.yml`) to manage the instanc
 
 # The unique ID for this instance. This ID determines the start and end coordinates for the area managed by this instance.
 instance_id: 1
+
+# Database Connection Settings
+#
+# ------------------------------------------------------------
+#                     Database Types
+#                 Example Database-Types
+#          MONGODB, MARIADB, MYSQL, POSTSQL usw.
+# ------------------------------------------------------------
+type: MYSQL
+
+ip: 
+port:
+user:
+database:

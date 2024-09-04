@@ -1,4 +1,4 @@
-# Scaled Minecraft based on Spigot
+# Scaled Minecraft based on Spigot (1.21.1)
 
 Scaled Minecraft is a Minecraft plugin designed to manage and load/unload specific areas of the world dynamically based on instance configurations. This plugin is particularly useful for large-scale servers where different instances or zones need to be managed separately to optimize performance.
 

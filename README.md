@@ -37,7 +37,7 @@ instance_id: 1
 # ------------------------------------------------------------
 type: MYSQL
 
-ip: 
-port:
-user:
-database:
+ip: 123.456.789.10
+port: 1234
+user: scaled_minecraft
+database: scaled_minecraft

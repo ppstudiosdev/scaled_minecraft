@@ -31,11 +31,11 @@ instance_id: 1
 # Database Connection Settings
 #
 # ------------------------------------------------------------
-#                     Database Types
-#                 Example Database-Types
-#          MONGODB, MARIADB, MYSQL, POSTSQL usw.
+#            Scaled Minecraft - Database Types 
+#          Example Database-Types are Supported
+#  POSTGRESQL, SQLLITE, MONGODB, MARIADB, MYSQL, POSTSQL usw.
 # ------------------------------------------------------------
-type: MYSQL
+type: SQLLITE
 
 ip: 123.456.789.10
 port: 1234

@@ -1,4 +1,4 @@
-# Scaled Minecraft based on Spigot (1.21.1)
+# Scaled Minecraft based on Minestom (1.21.1)
 
 Scaled Minecraft is a Minecraft plugin designed to manage and load/unload specific areas of the world dynamically based on instance configurations. This plugin is particularly useful for large-scale servers where different instances or zones need to be managed separately to optimize performance.
 
@@ -14,7 +14,7 @@ Scaled Minecraft is a Minecraft plugin designed to manage and load/unload specif
 1. Download the latest release of the plugin from the [Releases](https://github.com/ppstudiosdev/scaled_minecraft/releases) page.
 2. Place the downloaded `.jar` file into the `plugins` folder of your Minecraft server.
 3. Start the server to generate the default configuration file.
-4. Configure the `instance_id` in the `config.yml` file located in the `plugins/scaled_minecraft` directory.
+4. Configure the `instance_id` in the `config.yml` file located in the `extensions/scaled_minecraft` directory.
 5. Restart the server to apply the changes.
 
 ## Configuration

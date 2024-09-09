@@ -13,7 +13,7 @@ Scaled Minecraft is a Minecraft Server designed for Minestom to manage and load/
 
 1. Download the latest release of the plugin from the [Releases](https://github.com/ppstudiosdev/scaled_minecraft/releases) page.
 2. Unzip the ZIP File.
-3. Start the Server with the s.sh file.
+3. Start the Server with the s.sh or the s.bat alternativ use the s.cs for more performance file.
 
 ## Configuration
 
